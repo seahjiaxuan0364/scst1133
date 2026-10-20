@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Seah Jia Xuan
 
-<img src="profile.jpg" width="200" alt="Seah Jia Xuan's profile photo">
+<img src="profile.jpeg" width="200" alt="Seah Jia Xuan's profile photo">
 
 🎓 I'm a student interested in technology.
 
